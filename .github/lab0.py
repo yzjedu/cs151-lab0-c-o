@@ -16,7 +16,7 @@ print ("5. 9/4/24 is her first day at loyola (classes)\n")
 
 print ("my partner's name is Cameron")
 print ("he's from vegas")
-print ("lives in Lutherville,maryland")
+print ("lives in Lutherville, Maryland")
 print ("has a dog")
 print ("is a com sci major")
 print ("played an rl1 elden ring run")
