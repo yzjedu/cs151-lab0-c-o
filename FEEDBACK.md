@@ -2,14 +2,14 @@
 
 ### Rubric
 - states name before or within statements
-    -  NO
+    -  YES
 - has 5 statements about each partner using print
-    -  NO
+    -  YES
 - intro comments 
-    -  NO
+    -  YES
 - runs without errors
-    -  NO
+    -  YES
 
 ### Other Comments
-- There is nothing to grade here
-### Grade: N
+- 
+### Grade: E
